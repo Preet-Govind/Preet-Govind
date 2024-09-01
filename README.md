@@ -11,7 +11,7 @@ My work is driven by curiosity and a commitment to solving complex problems with
 - I am **actively seeking new job opportunities** with nearly 2 years of experience
 - Available to **start** from **September 2024**.
 - Looking for roles in **AI, Data Science, ML or Data Engineering**.
-- If you're interested in collaborating or know of any opportunities, **feel free to [reach out](#-let-s-connect)**!
+- If you're interested in collaborating or know of any opportunities, **feel free to [reach out](#-lets-connect)**!
 
 ## 🚀 About Me
 

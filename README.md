@@ -12,6 +12,7 @@ My work is driven by curiosity and a commitment to solving complex problems with
 - Available to **start** from **September 2024**.
 - Looking for roles in **AI, Data Science, ML or Data Engineering**.
 - If you're interested in collaborating or know of any opportunities, **feel free to [reach out](#-lets-connect)**!
+- Resume at [Link](https://github.com/Preet-Govind/Preet-Govind.github.io/blob/main/PreetGovind_Resume.pdf)
 
 ## 🚀 About Me
 
@@ -31,14 +32,15 @@ I have extensive experience in leading and contributing to technology-driven pro
 
 | Category                | Technologies                                                                                              |
 |-------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Languages**           | Python, JavaScript, C#                                                                                   |
-| **Front-End**           | HTML5, CSS3                                                                                             |
-| **Back-End**            | ASP.NET, Flask, Spring Boot                                                                             |
+| **Languages**           | Python, JavaScript, Java, C#                                                                            |
+| **Front-End**           | HTML5, CSS3, AJAX, JQuery                                                                               |
+| **Back-End**            | ASP.NET MVC , Spring Boot MVC , Flask                                                                   |
 | **Database**            | Oracle DB, SQL Server                                                                                   |
 | **Data Science & AI**   | NumPy, scikit-learn, Pandas, Matplotlib, Seaborn, TensorFlow, Keras, PyTorch                            |
-| **Data Engineering**    | Apache Spark, Apache Hadoop                                                                             |
-| **DevOps & Tools**      | GitLab, GitHub                                                                                             |
+| **Data Engineering**    | PySpark, Apache Hadoop                                                                                  |
+| **DevOps & Tools**      | GitLab, GitHub                                                                                          |
 | **Cloud**               | Azure                                                                                                   |
+| **Linux(Shell)**        | Debian(Bash)                                                                                           |
 
 
 ## 📬 Let’s Connect

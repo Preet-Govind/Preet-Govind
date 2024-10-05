@@ -33,14 +33,14 @@ I have extensive experience in leading and contributing to technology-driven pro
 | Category                | Technologies                                                                                              |
 |-------------------------|-----------------------------------------------------------------------------------------------------------|
 | **Languages**           | Python, JavaScript, Java, C#                                                                            |
-| **Front-End**           | HTML5, CSS3, AJAX, JQuery                                                                               |
-| **Back-End**            | ASP.NET MVC , Spring Boot MVC , Flask                                                                   |
-| **Database**            | Oracle DB, SQL Server                                                                                   |
+| **Front-End**           | HTML5, CSS3, AJAX, JQuery, Bootstrap                                                                    |
+| **Back-End**            | ASP.NET MVC , Spring Boot MVC , Flask, Django                                                           |
+| **Database**            | Oracle DB, SQL Server, Postgres                                                                         |
 | **Data Science & AI**   | NumPy, scikit-learn, Pandas, Matplotlib, Seaborn, TensorFlow, Keras, PyTorch                            |
 | **Data Engineering**    | PySpark, Apache Hadoop                                                                                  |
 | **DevOps & Tools**      | GitLab, GitHub                                                                                          |
-| **Cloud**               | Azure                                                                                                   |
-| **Linux(Shell)**        | Debian(Bash)                                                                                           |
+| **Cloud**               | Azure (Data Factory , Synapse)                                                                          |
+| **Linux(Shell)**        | Debian(Bash)                                                                                            |
 
 
 ## 📬 Let’s Connect
@@ -49,7 +49,7 @@ I’m always open to collaboration, whether it’s on innovative projects or exc
 
 - [LinkedIn](https://www.linkedin.com/in/preet-govind/)
 - [Email](mailto:preet.govind.23@gmail.com)
-- [PortFolio git page](https://www.preet-govind.github.io)
+- [PortFolio git page](https://preet-govind.github.io)
   
 
 Thank you for visiting my profile! Let’s create something remarkable together. 🚀

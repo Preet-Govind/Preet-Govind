@@ -48,7 +48,7 @@ I have extensive experience in leading and contributing to technology-driven pro
 
 I’m always open to collaboration, whether it’s on innovative projects or exchanging ideas in the field of Data-AI and Software development , 
 Feel free to reach out!
-- [LinkedIn](https://www.linkedin.com/in/preet-govind/)
+- [LinkedIn](https://www.linkedin.com/in/preet-govind-400ab615/)
 - [Email](mailto:preet.govind.23@gmail.com)
 - [PortFolio git page](https://preet-govind.github.io)
   

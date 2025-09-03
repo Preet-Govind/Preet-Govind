@@ -2,8 +2,9 @@
 
 Welcome to my GitHub profile!
 
-Presently working as SDE ( Data Engineering) with a passion for AI, data engineering and simplistic full-stack development (back-end heavy). 
-My work is driven by curiosity and a commitment to solving complex problems with innovative solutions.
+I’m currently working as an SDE (Data Engineering) with a passion for AI, large-scale data systems, and backend-focused full-stack development.
+Driven by curiosity, I love building scalable systems, optimizing pipelines, and solving complex problems with elegant solutions.
+
 <!--
 [//]: # (## 🔍 Seeking Opportunities )
 Presently working as SDE (Data Engineering).
@@ -17,31 +18,32 @@ If you're interested in collaborating or know of any opportunities in the field 
 -->
 ## 🚀 About Me
 
-- **AI & Machine Learning Enthusiast:** I focus on transforming data into actionable insights through predictive models and intelligent systems.
-- **Full-Stack Developer:** I specialize in crafting scalable and secure web applications, emphasizing performance optimization and user experience.
-- **Innovative Problem Solver:** I thrive on tackling challenging problems and delivering impactful solutions.
+- **AI & Machine Learning Enthusiast:** Transforming data into actionable insights through predictive models and intelligent systems.
+- **Full-Stack Developer:** Building secure, scalable, and performant web applications.
+- **Innovative Problem Solver:** Thrive on tackling challenging problems and delivering impactful solutions.
+
 
 ## 💼 Experience
 
 I have extensive experience in leading and contributing to technology-driven projects. My expertise includes:
+- **Data Engineering & AI:** Designed ML pipelines, automated workflows, and optimized distributed data pipelines.
+- **Backend & Systems:** Developed robust services and APIs, ensuring performance, scalability, and reliability.
+- **Technical Strategy:** Suggested architecture improvements, optimized infra, and improving backend system efficiency.
 
-- **Development Leadership:** Overseeing the development of full-stack web applications, ensuring performance and security.
-- **Data Engineering & AI:** Designing and implementing machine learning models, optimizing data pipelines, and enhancing data-driven decisions.
-- **Technical Strategy:** Providing technology recommendations, optimizing infrastructure, and improving backend system efficiency.
 
 ## 🛠️ Tech Stack
 
-| Category                | Technologies                                                                                              |
-|-------------------------|-----------------------------------------------------------------------------------------------------------|
+| Category                | Technologies                                                                                            |
+|-------------------------|---------------------------------------------------------------------------------------------------------|
 | **Languages**           | Python, JavaScript, Java, C#                                                                            |
 | **Front-End**           | HTML5, CSS3, AJAX, JQuery, Bootstrap                                                                    |
-| **Back-End**            | ASP.NET MVC , Spring Boot MVC , Flask, Django                                                           |
+| **Back-End**            | ASP.NET MVC , Spring MVC , Flask, Django                                                                |
 | **Database**            | Oracle DB, SQL Server, PostgreSQL                                                                       |
 | **Data Science & AI**   | NumPy, scikit-learn, Pandas, Matplotlib, Seaborn, TensorFlow, Keras, PyTorch                            |
-| **Data Engineering**    | PySpark, Apache Hadoop                                                                                  |
+| **Data Engineering**    | PySpark, Apache Hadoop, Data Build Tool, Trino, Ray                                                     |
 | **DevOps & Tools**      | GitLab, GitHub                                                                                          |
-| **Cloud**               | Azure (Data Factory , Synapse)                                                                          |
-| **Linux(Shell)**        | Debian(Bash), Xubuntu(Bash)                                                                              |
+| **Cloud**               | Azure (Data Factory , Synapse), AWS (EC2)                                                               |
+| **Linux(Shell)**        | Debian(Bash), Xubuntu(Bash)                                                                             |
 
 
 ## 📬 Let’s Connect

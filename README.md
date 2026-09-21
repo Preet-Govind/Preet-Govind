@@ -1,11 +1,15 @@
-## Preet Govind
+# Preet Govind
 
-Software Engineer focused on Data Engineering, AI systems, and backend development.
+Software Engineer focused on **Data Engineering, AI/ML, Backend Systems, and System Design**.
 
-### focus
-Data Engineering | AI / Machine Learning | Backend Systems | System Design & Performance
+### Works
+Some of my works 
+  - [pg_https](https://github.com/Preet-Govind/pg_https) — PostgreSQL extension for HTTP/HTTPS requests
+  - [pg_s3](https://github.com/Preet-Govind/pg_s3) — PostgreSQL extension for S3-compatible object storage
+  - [pg_https](https://github.com/Preet-Govind/duckFlow) — DuckFlow — Data Engineering Control Plane built on DuckDB with PostgreSQL-like features and a native Web IDE with capabilities to connect with AI models (BYOM).
 
-### conn ....
-- [LinkedIn](https://www.linkedin.com/in/preet-govind-400ab615/)
-- [Email](mailto:preet.govind.23@gmail.com)
-- [PortFolio git page](https://preet-govind.github.io)
+### Connect
+
+* [LinkedIn](https://www.linkedin.com/in/preet-govind-400ab615/)
+* [Email](mailto:preet.govind.23@gmail.com)
+* [Portfolio](https://preet-govind.github.io)

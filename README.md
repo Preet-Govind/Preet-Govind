@@ -6,7 +6,7 @@ Software Engineer focused on **Data Engineering, AI/ML, Backend Systems, and Sys
 Some of my works 
   - [pg_https](https://github.com/Preet-Govind/pg_https) — PostgreSQL extension for HTTP/HTTPS requests
   - [pg_s3](https://github.com/Preet-Govind/pg_s3) — PostgreSQL extension for S3-compatible object storage
-  - [pg_duckflow](https://github.com/Preet-Govind/duckFlow) — DuckFlow — Data Engineering Control Plane built on DuckDB with PostgreSQL-like features and a native Web IDE with capabilities to connect with AI models (BYOM).
+  - [duckFlow](https://github.com/Preet-Govind/duckFlow) — Data Engineering Control Plane built on DuckDB with PostgreSQL-like features and a native Web IDE with capabilities to connect with AI models (BYOM).
 
 ### Connect
 
